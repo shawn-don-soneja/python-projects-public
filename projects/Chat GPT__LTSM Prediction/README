@@ -1,0 +1,17 @@
+Project from: 
+https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b
+
+Steps:
+1. pip install pandas numpy keras tensorflow
+*this command is to be run at the root level of each folder, in the /projects folder
+
+To Download & Dependencies:
+PS C:\Users\shawn\github\python-predictions> pip install -r requirements.txt
+
+Notes:
+    Needed to enabled WindowsLongPath:
+    https://www.thewindowsclub.com/how-to-enable-or-disable-win32-long-paths-in-windows-11-10
+
+Commands:
+python chat_gpt_basic_ltsm.py -> runs chat gpt prediction
+pip install -r requirements.txt -> installs all dependencies defined in our 'requirements' file
