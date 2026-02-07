@@ -6,7 +6,7 @@ Steps:
 *this command is to be run at the root level of each folder, in the /projects folder
 
 To Download & Dependencies:
-PS C:\Users\shawn\github\python-predictions> pip install -r requirements.txt
+PS your-path\python-predictions> pip install -r requirements.txt
 
 Notes:
     Needed to enabled WindowsLongPath:
